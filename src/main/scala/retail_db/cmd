@@ -1,0 +1,1 @@
+spark-submit --class retail_db.GetRevenuePerOrder "/Users/eric/IdeaProjects/SparkApp/target/scala-2.11/sparkapp_2.11-0.1.jar" local /Users/eric/data/retail_db/order_items/part0 /Users/eric/data/TEST/output_part
